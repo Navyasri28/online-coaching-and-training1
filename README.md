@@ -1,4 +1,5 @@
 Learn Speed
+
 Learn Speed is an interactive learning website designed to help users improve their skills efficiently and quickly. It offers a variety of educational content and resources aimed at accelerating the learning process.
 
 Features
@@ -11,11 +12,12 @@ Interactive quizzes and exercises to test knowledge
 Responsive design, works well on both desktop and mobile devices
 
 Technologies Used
-HTML5
 
-CSS3
+-- HTML5
 
-JavaScript
+-- CSS3
+
+-- JavaScript
 
 How to Use
 Clone the repository:
